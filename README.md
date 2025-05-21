@@ -1,7 +1,5 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsspf0Cq1c5DkzC/giphy.gif" alt="Hotel Booking System" width="100%" />
-</p>
+
 
 <h1 align="center">🏨 Hotel Booking Management System</h1>
 
