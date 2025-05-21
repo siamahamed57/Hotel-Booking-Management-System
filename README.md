@@ -1,46 +1,45 @@
 🏨 Hotel Booking Management System – OOP2 Project
-Welcome to the GitHub repository of our OOP2 course project from Section D, under the guidance of Faculty Jahid Hassan.
-This project was developed by Group Legends.
+Welcome to the Hotel Booking Management System repository — our OOP2 course project from Section D, developed under the supervision of Faculty Jahid Hassan by Group Legends.
 
-📚 Project Info:
-Course Name: Object-Oriented Programming 2 (OOP2)
+📚 Project Information
+Course: Object-Oriented Programming 2 (OOP2)
 
 Faculty: Jahid Hassan
 
 Section: D
 
-Group Name: Legends
+Group: Legends
 
-✨ Project Overview:
-The Hotel Booking Management System is a simple desktop application built using C# and the .NET Framework. It demonstrates core object-oriented programming concepts and allows basic hotel booking functionalities through a user-friendly interface.
+✨ Project Overview
+This desktop application is built with C# on the .NET Framework. It showcases core object-oriented programming principles while offering a practical hotel booking system with an intuitive Windows Forms GUI. Users can perform basic hotel management operations seamlessly.
 
-✅ Main Features:
-Add new customers
+✅ Features
+➕ Add New Customers
 
-Book available rooms
+🛏️ Book Available Rooms
 
-View all available rooms
+👀 View All Rooms & Their Status
 
-Customer check-in and check-out
+✅ Customer Check-in & Check-out
 
-Show customer and booking details
+📋 Display Booking and Customer Details
 
-Cancel a booking
+❌ Cancel Bookings
 
-Windows Forms (GUI) interface
+🖥️ Windows Forms User Interface
 
-Data stored using simple in-memory structures (no database)
+💾 Data managed via in-memory structures (no external database)
 
-💻 Technologies Used:
-Programming Language: C#
+💻 Technologies
+Language: C#
 
 Framework: .NET Framework
 
 Platform: Windows Forms Application
 
-IDE: Visual Studio
+Development Environment: Visual Studio
 
-👨‍👩‍👧‍👦 Group Members (Team Legends):
+👨‍👩‍👧‍👦 Group Members
 Md. Ibrahim Khalil
 
 Md. Abdul Kaium Opu
@@ -49,11 +48,11 @@ Rodela Sharmin Mohona
 
 Nitol Kundu
 
-🚀 How to Run the Project:
+🚀 How to Run
 Clone or download this repository.
 
 Open the .sln file in Visual Studio.
 
-Build the solution (Ctrl + Shift + B).
+Build the solution using Ctrl + Shift + B.
 
-Run the application (F5) and use the interface to manage bookings.
+Run the project with F5 and start managing hotel bookings via the GUI.
